@@ -1,6 +1,6 @@
 # BlackRhinos
-Blackrhinos Takım Tanıtımı
-Blach Rhinos Takımı Ve Üyeleri
+## Blackrhinos Takım Tanıtımı
+###### Black Rhinos Takımı Ve Üyeleri
 
 
 
