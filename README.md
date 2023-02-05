@@ -3,5 +3,4 @@
 ###### Black Rhinos Takımı Ve Üyeleri
 
 
-
-![rhino](https://user-images.githubusercontent.com/114404192/216826680-2821c808-7400-415c-8061-9946e8ab30c8.jpg)
+![image](https://user-images.githubusercontent.com/114404192/216829173-e0b02ea2-2cb8-4606-9ef8-743a6d43704a.png)
